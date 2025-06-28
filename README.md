@@ -49,7 +49,7 @@ Operating Systems Lab programs implemented in C and Shell scripting for S4 CSE B
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/os-lab.git
+   git clone https://github.com/AthulSabu2002/S4_OS_LAB.git
    cd os-lab
    ```
 
